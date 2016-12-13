@@ -8,7 +8,7 @@
 
 
 #define DOBA 24*3600
-
+#define TEST 1
 
 struct _proba{
 	unsigned int uczestnicy;
